@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias" />
+    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias">
+      <change beforePath="$PROJECT_DIR$/src/MovimientoDeDinero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovimientoDeDinero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;fffe6c&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "10f7ff",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1566d782-f2d8-40e8-9147-37f010ac8470" name="Changes" comment="" />
+      <changelist id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias" />
       <created>1660884758065</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
