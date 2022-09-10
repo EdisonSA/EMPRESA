@@ -5,8 +5,8 @@ public class Empresa {
     String documentoEmpresa; //nitEmpresa
     String telefonoEmpresa;
     String direccionEmpresa;
-    //usuario empleado[];
-    //transaccion MovimientoDeDinero[];
+    usuario empleado[];
+    transaccion MovimientoDeDinero[];
     //createdAt datos;
     //updatedAt datos;
 

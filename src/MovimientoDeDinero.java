@@ -1,60 +1,65 @@
 public class MovimientoDeDinero {
 
-    private String usuario;
-    private double saldo;
-    private  int gastos;
-    private int ingresos;
+    //private usuario usuario;
+    //private Empresa Empresa;
+    long id;
+    String concepto;
+    float monto;
+    int crearDato;
+    int  ActualizarDato;
+
 
     public MovimientoDeDinero() {
     }
 
-    public MovimientoDeDinero(String usuario, double saldo, int gastos, int ingresos) {
-        this.usuario = usuario;
-        this.saldo = saldo;
-        this.gastos = gastos;
-        this.ingresos = ingresos;
+    public MovimientoDeDinero(long id, String concepto, float monto) {
+        this.id = id;
+        this.concepto = concepto;
+        this.monto = monto;
     }
 
-    public String getUsuario() {
-        return usuario;
+    public long getId() {
+        return id;
     }
 
-    public void setUsuario(String usuario) {
-        this.usuario = usuario;
+    public void setId(long id) {
+        this.id = id;
     }
 
-    public double getSaldo() {
-        return saldo;
+    public String getConcepto() {
+        return concepto;
     }
 
-    public void setSaldo(double saldo) {
-        this.saldo = saldo;
+    public void setConcepto(String concepto) {
+        this.concepto = concepto;
     }
 
-    public int getGastos() {
-        return gastos;
+    public float getMonto() {
+        return monto;
     }
 
-    public void setGastos(int gastos) {
-        this.gastos = gastos;
+    public void setMonto(float monto) {
+        this.monto = monto;
     }
 
-    public int getIngresos() {
-        return ingresos;
+    public int getCrearDato() {
+        return crearDato;
     }
 
-    public void setIngresos(int ingresos) {
-        this.ingresos = ingresos;
+    public void setCrearDato(int crearDato) {
+        this.crearDato = crearDato;
+    }
+
+    public int getActualizarDato() {
+        return ActualizarDato;
     }
 
     @Override
     public String toString() {
-        return "MovimientoDeDinero{" +
-                "usuario='" + usuario + '\'' +
-                ", saldo=" + saldo +
-                ", gastos=" + gastos +
-                ", ingresos=" + ingresos +
-                '}';
+        return "MovimientoDeDinero{" + "id=" + id + ", concepto="
+                + concepto + ", monto=" + monto + ", crearDato="
+                + crearDato + ", ActualizarDato=" + ActualizarDato + '}';
     }
-    
+
+
 }
