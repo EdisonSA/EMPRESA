@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaRectangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Empresa1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUPERADMINISTRADOR.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +11,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/RELEASE" />
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -33,7 +26,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="RELEASE" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,21 +42,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;033032&quot;,
+    &quot;Project.color&quot;: &quot;fffe6c&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias" />
+      <changelist id="1566d782-f2d8-40e8-9147-37f010ac8470" name="Changes" comment="" />
       <created>1660884758065</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -90,14 +78,7 @@
       <option name="project" value="LOCAL" />
       <updated>1661639568339</updated>
     </task>
-    <task id="LOCAL-00004" summary="creo clase empresas con instancias">
-      <created>1661639792140</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1661639792140</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
