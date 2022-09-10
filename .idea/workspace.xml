@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="creo clase empresas con instancias" />
+    <list default="true" id="1748eb7e-fc7c-4c11-8c43-547bfee41ca9" name="Changes" comment="Modifico clases con correciones">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AreaRectangulo.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="RELEASE" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,6 +99,7 @@
     <MESSAGE value="agrego clase admin" />
     <MESSAGE value="creo enterprise e instancias" />
     <MESSAGE value="creo clase empresas con instancias" />
-    <option name="LAST_COMMIT_MESSAGE" value="creo clase empresas con instancias" />
+    <MESSAGE value="Modifico clases con correciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifico clases con correciones" />
   </component>
 </project>
